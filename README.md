@@ -12,19 +12,11 @@ Command-line tool for programmatic Google Docs editing via the Docs API. Support
 
 ## Installation
 
-### From Source (Local Development)
-
 ```bash
 git clone https://github.com/gavrix/gdoc-cli.git
 cd gdoc-cli
 npm install
 npm link  # Makes 'gdoc' available globally
-```
-
-### From npm (Coming Soon)
-
-```bash
-npm install -g @gavrix/gdoc
 ```
 
 ## Authentication
