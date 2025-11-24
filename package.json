@@ -1,0 +1,21 @@
+{
+  "name": "@gavrix/gdoc",
+  "version": "1.0.0",
+  "description": "CLI tool for Google Docs API - markdown conversion and section editing",
+  "main": "gdoc.js",
+  "bin": {
+    "gdoc": "./gdoc.js"
+  },
+  "keywords": [
+    "google-docs",
+    "markdown",
+    "cli"
+  ],
+  "author": "gavrix",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^14.0.2",
+    "googleapis": "^144.0.0",
+    "marked": "^15.0.4"
+  }
+}
