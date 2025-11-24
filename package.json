@@ -6,10 +6,23 @@
   "bin": {
     "gdoc": "./gdoc.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gavrix/gdoc-cli.git"
+  },
+  "homepage": "https://github.com/gavrix/gdoc-cli#readme",
+  "bugs": {
+    "url": "https://github.com/gavrix/gdoc-cli/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "keywords": [
     "google-docs",
     "markdown",
-    "cli"
+    "cli",
+    "docs-api",
+    "automation"
   ],
   "author": "gavrix",
   "license": "MIT",
